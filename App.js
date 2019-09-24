@@ -61,7 +61,7 @@ const App = () => {
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>Learn More</Text>
               <Text style={styles.sectionDescription}>
-                Read the docs to discover what to do next:
+                Welcome to the jangle:
               </Text>
             </View>
             <LearnMoreLinks />
